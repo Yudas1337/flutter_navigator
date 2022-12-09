@@ -1,16 +1,17 @@
-# flutter_navigator
+# Flutter Navigation
 
-A new Flutter project.
+Silakan selesaikan Tugas Praktikum sesuai di Jobsheet 07
 
-## Getting Started
+Catatan: Pada app bar atau screenshot tambahkan nama dan nim masing-masing.
 
-This project is a starting point for a Flutter application.
+Nama : Yudas Malabi
 
-A few resources to get you started if this is your first Flutter project:
+Kelas : TI 3C / 25
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+NIM : 2041720054
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![Hasil Praktikum](assets/screenshots/1.png)
+
+![Hasil Praktikum](assets/screenshots/2.png)
